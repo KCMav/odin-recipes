@@ -1,0 +1,28 @@
+body {
+    background-color: #f0faf2;
+    color: #051106;
+    font-family: 'Trebuchet MS';
+}
+
+.title {
+    text-align: center;
+}
+
+.list {
+    text-align: center;
+    list-style: none;
+    margin-left: -25px;
+}
+
+a {
+    color:#051106;
+}
+
+a:visited {
+    color: #051106;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
